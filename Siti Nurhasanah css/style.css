@@ -1,0 +1,45 @@
+.awal {
+  float: left;
+}
+.akhir {
+  float: right;
+}
+.tengah {
+  margin-top: -25px;
+  margin-left: 40px;
+}
+.ujung {
+  text-align: right;
+  margin-top: -10px;
+  width: 105px;
+}
+.artikel {
+  margin-top: 250px;
+  margin-bottom: 100px;
+}
+.artikel-1 {
+  margin-bottom: 50px;
+}
+video {
+  width: 200px;
+  height: 150px;
+}
+.one {
+  width: 200px;
+  height: 130px;
+  margin-left: 40px;
+}
+.satu {
+  width: 65px;
+}
+.dua {
+  margin-left: 15px;
+  margin-right: 30px;
+}
+.terakhir {
+  width: 250px;
+  height: 130px;
+}
+.tg {
+  width: 15px;
+}
